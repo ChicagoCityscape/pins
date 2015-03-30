@@ -11,10 +11,14 @@ A PIN describes a property, often in the form of a discrete parcel of a land, bu
 A PIN is 14 digits long and can be divvied into five, meaningful parts. A PIN is most often an integer, but many have leading zeros.
 
 ## What's in List #1?
-List 1 contains the response to a FOIA request [1], asking for a list of "all PINs" (and the property address, city, class, and description) that were on the tax roll in 2014. 
+List 1 contains the response to a FOIA request [1], asking for a list of "all PINs" (and its metadata: property address, city, class, and description) that were on the tax roll in 2014. 
 
-* 1,864,384 PINs in total
+* 1,864,384 PINs were received in the FOIA request
 * 1,863,813 unique PINs
+
+### Get the data
+* [Download a list of PINs](https://github.com/ChicagoCityscape/pins/blob/master/all_cook_pins_1863813.csv.zip) (just the PIN)
+* Download PIN data (PIN and metadata)
 
 ## What's in List #2?
 List 2 contains PINs that are in the [Parcel2012 shapefile](https://datacatalog.cookcountyil.gov/GIS-Maps/ccgisdata-Parcel-2012/e62c-6rz8) from the Cook County data portal that are not present in List 1 ("all PINs"). 
