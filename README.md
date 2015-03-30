@@ -30,5 +30,11 @@ List 2 contains 155,746 PINs that are in the [Parcel2012 shapefile](https://data
 * [Download a list of 155,746 PINs](https://github.com/ChicagoCityscape/pins/blob/master/missing_parcel_pins_155746.csv.zip) (just the PIN)
 * Download PIN data (PIN and metadata)
 
+## Other info
+When you're analyzing PINs and property taxes it's useful to know the property's class and class description. There are 132 unique classes, including *null* and "unclassified" values. The most common property class is "2-91, Residential condominium".
+
+### Get the data
+* [Download a table of classes, descriptions, and property counts](https://github.com/ChicagoCityscape/pins/blob/master/property_class_descriptions.csv)
+
 ## Notes
 [1] The FOIA request to the Cook County Treasurer's office was considered voluminous and would cost money; the original response said that 50 PINs would fit on a page, making for over 36,000 pages. We inquired about the possibility of providing it in an Excel spreadsheet. The final request was returned in 11 Excel documents after transmitting $100. It was noted in the FOIA request that it was for a commercial use – this extends the time the office has to respond from 5 days to 25 days. 
