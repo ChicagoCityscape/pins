@@ -27,7 +27,7 @@ List 2 contains 155,746 PINs that are in the [Parcel2012 shapefile](https://data
 149,750 is the number of PINS that had records on the Cook County Property Info Portal.
 
 ### Get the data
-* [Download a list of 149,750 PINs](https://github.com/ChicagoCityscape/pins/blob/master/missing_parcel_pins_155746.csv.zip) (just the PIN)
+* [Download a list of 155,746 PINs](https://github.com/ChicagoCityscape/pins/blob/master/missing_parcel_pins_155746.csv.zip) (just the PIN)
 * Download PIN data (PIN and metadata)
 
 ## Notes
