@@ -1,0 +1,133 @@
+count,class,description
+1,8-89,Industrial condominium unit
+1,8-01,Garage used in conjunction with commercial incentive improvement
+1,6-55,Garage used in conjunction with industrial Brownfield incentive improvement
+1,6-87,Special industrial improvement
+1,8-27,Theatre
+1,6-68,Special industrial Brownfield improvement
+1,7-52,"Garage, service station"
+1,4-30,Not for profit supermarket
+1,4-83,Not for profit industrial quonset hut or butler type building
+1,7-23,"Gasoline station, with /without bays, store"
+1,4-18,Not for profit two or three story mixed use commercial/residential building
+1,7-46,Non-Fireproof hotel or rooming house (Apartment hotel)
+2,9-00,Land used in conjunction with incentive rental apartments
+2,4-22,Not for profit one story non-fireproof public garage
+2,8-87,Special industrial improvement
+2,6-71,Garage used in conjunction with industrial incentive improvement
+2,6-80,Industrial minor improvement
+2,7-74,Office building
+3,7-28,Bank building
+3,8-31,"Shopping center (Regional, community, neighborhood, promotional, specialty)"
+3,9-19,Description Unknown
+3,6-54,Other industrial Brownfield minor improvements
+3,8-29,Motel
+3,4-01,Not for profit garage
+3,7-97,Special commercial structure
+4,4-80,Not for profit industrial minor improvement
+5,8-83,Quonset hut or butler type building
+6,6-93,Industrial building
+7,4-28,Not for profit bank building
+7,8-92,Two or three story building containing part or all retail and/or commercial space
+8,8-33,Quonset hut or butler type building
+10,6-77,Special industrial improvement
+10,8-30,Supermarket
+10,5-50,Industrial land
+11,7-29,Motel
+13,6-73,Industrial quonset hut or butler type building
+14,8-28,Bank building
+15,5-00,Commercial land
+18,7-90,Other minor commercial improvement
+19,7-92,Two or three story building containing part or all retail and/or commercial space
+21,6-38,Industrial Brownfield
+24,8-23,"Gasoline station with/without bay, store"
+24,4-91,Not for profit improvement over three stories
+25,7-91,"Office building (One story, low, rise, mid rise, high rise)"
+27,8-97,Special commercial structure
+30,8-99,Commercial/Industrial condominium unit/garage
+34,5-81,Garage used in conjunction with industrial improvement
+36,2-25,Single room occupancy rental building
+37,5-16,Non-fireproof hotel or rooming house (apartment hotel)
+42,9-13,"Two or three story apartment building, seven or more units"
+42,4-93,Not for profit industrial building
+44,8-80,Industrial minor improvement
+44,5-26,Commercial greenhouse
+47,3-01,Garage used in conjunction with rental apartments
+61,6-79,Industrial condominium unit
+62,4-99,Not for profit condominium
+67,9-96,"Rented modern row houses, seven or more units in a single development or one or more contiguous parcels in common ownership"
+72,5-32,Bowling alley
+89,4-92,Not for profit two or three story building containing part or all retail and/or commercial space
+92,9-18,Mixed use commercial/residential building with apartments and commercial area where the commercial area is granted an incentive use
+92,2-88,Home improvement exemption
+97,5-87,Special industrial improvement
+105,2-24,Farm Building
+106,5-27,Theatre
+141,4-17,Not for profit one story commercial building
+142,8-90,Minor industrial improvement
+145,4-35,Not for profit golf course improvement
+146,9-97,Special rental structure
+146,8-93,Industrial building
+154,5-01,Garage used in conjunction with commercial improvements
+160,9-90,Other minor improvements
+161,5-83,Industrial quonset hut or butler type building
+169,4-97,Not for profit special structure
+178,5-35,Golf course improvement
+215,5-33,Quonset hut or butler type building
+221,6-70,Industrial minor improvement
+233,9-91,Apartment buildings over three stories
+244,8-17,One story commercial building
+247,4-90,Not for profit commercial minor improvement
+291,2-00,Residential Land
+319,9-14,"Two or three story non-fireproof court and corridor apartments or California type apartments, no corridors, exterior entrance"
+338,3-96,"Rented modern row houses, seven or more units in a single development or one or more contiguous parcels in common ownership"
+369,3-13,Two or three story building seven or more units
+466,2-13,Cooperative
+623,5-30,Supermarket
+685,5-89,Industrial condominium unit
+689,2-97,Special residential improvements (May apply to condo building in first year of construction before division into individual units.)
+703,5-29,Motel
+810,3-97,Special rental structure
+816,9-15,"Two or three story non-fireproof corridor apartments, or California type apartments, interior entrance"
+964,5-31,Shopping center
+1046,2-39,"Non-equalized land under agricultural use, valued at farm pricing"
+1133,3-90,Other minor improvement related to rental use
+1152,3-91,"Apartment building over three stories, seven or more units"
+1441,5-91,Commercial building over three stories
+1475,6-63,Industrial building
+1595,5-28,Bank building
+1691,5-23,Gasoline station
+2831,3-18,"Mixed use commercial/residential building with apartments and commercial area totaling seven units or more with a square foot area of over 20,000 square feet"
+2833,2-90,Minor improvement
+3040,1-90,Minor Improvement on Vacant Land
+3659,3-14,"Two or three story non-fireproof building with corridor apartment or California type apartments, no corridors exterior entrance"
+5024,5-22,One story non-fireproof public garage
+5310,5-92,Two or three story building containing part or all retail and/or commercial space
+5383,5-99,Commercial condominium unit
+5415,3-99,"Rental condo units in a sngl. dvlp. of 1 or more contig. parcels w 7 or more rental units, comn ownshp"
+5794,2-09,"Two or more story residence, any age, 5,000 square feet and over"
+6376,5-97,Special commercial structure
+6773,3-15,"Two or three story non-fireproof corridor apartments or California type apartments, interior entrance"
+7054,5-80,Industrial minor improvement
+8617,,
+9514,2-01,Residential garage
+11350,2-08,"Two or more story residence, up to 62 years of age, 3,801 to 4,999 square feet"
+12902,2-10,"Old style row house (town home), over 62 years of age"
+14721,2-12,"Mixed use commercial/residential building with apartment and commercial area totaling 6 units or less with a square foot area less than 20,00 square feet, any age"
+17641,5-93,Industrial building
+19894,5-90,Commercial minor improvement
+26570,5-17,One story commercial building
+27758,2-41,Vacant land under common ownership with adjacent residence
+29869,2-06,"Two or more story residence, over 62 years of age, 2,201 to 4,999 square feet"
+36780,2-07,"Two or more story residence, up to 62 years of age, up to 2,000 square feet"
+56273,2-04,"One Story Residence, any age, 1,801 square feet and over"
+62226,2-95,Individually owned townhome or row house up to 62 years of age
+67566,1-00,Vacant Land
+73820,2-05,"Two or more story residence, over 62 years of age up to 2,200 square feet"
+99059,0-00,UnClassified
+100122,2-78,"Two or more story residence, up to 62 years of age, 2,001 to 3,800 square feet"
+112950,2-34,"Split level residence with a lower level below grade (ground level) all ages, all sizes"
+138067,2-02,"One Story Residence, any age, up to 999 square feet"
+160274,2-11,"Apartment building with 2 to 6 units, any age"
+394633,2-03,"One Story Residence, any age, 1,000 to 1,800 square feet"
+452635,2-99,Residential condominium
