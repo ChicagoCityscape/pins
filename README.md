@@ -1,6 +1,6 @@
 # Cook County PINs & Townships
 
-This repository contains *two lists of PINs*, or property index numbers. It will eventually contain property taxes data (billed and assessed values for all properties).
+This repository contains *two lists of PINs*, or property index numbers, property class descriptions, and township GIS data. It will eventually contain property taxes data (billed and assessed values for all properties).
 
 1. All Cook County Property Index Numbers billed for 2014
 2. Other PINs we know about that aren't in list #1
@@ -39,7 +39,7 @@ When you're analyzing PINs and property taxes it's useful to know the property's
 ## Township and township neighborhood boundaries
 Townships are tax collecting boundaries and the sub-township neighborhood helps the township assessor asses a property's value. 
 
-This data is a manually-drawn GIS boundary of all of the townships and township neighborhoods within the City of Chicago. Drawing the boundary edges was assisted by the street center lines and other official boundary data. Drawn by [Yonah Freemark](https://github.com/yfreemark).
+This data is a manually-drawn GIS boundary of all of the townships and township neighborhoods within the City of Chicago. Drawing the boundary edges was based on Cook County assessor maps (like this one for [Lake Township, neighborhood 30](http://www.cookcountyassessor.com/valuationstatistics/maps/LakeNei_030.pdf)) and was assisted by the street center lines and other official boundary data. Drawn by [Yonah Freemark](https://github.com/yfreemark).
 
 ### Get the data
 * [Download as a zipped shapefile](https://github.com/ChicagoCityscape/pins/blob/master/chicago_townships.zip). Projection is EPSG:3435, Illinois StatePlane East (feet)
