@@ -39,7 +39,7 @@ When you're analyzing PINs and property taxes it's useful to know the property's
 ## Township and township neighborhood boundaries
 Townships are tax collecting boundaries and the sub-township neighborhood helps the township assessor asses a property's value. 
 
-This data is a manually-drawn GIS boundary of all of the townships and township neighborhoods within the City of Chicago. Drawing the boundary edges was assisted by the street center lines and other official boundary data. 
+This data is a manually-drawn GIS boundary of all of the townships and township neighborhoods within the City of Chicago. Drawing the boundary edges was assisted by the street center lines and other official boundary data. Drawn by [Yonah Freemark](https://github.com/yfreemark).
 
 ### Get the data
 * [Download as a zipped shapefile](https://github.com/ChicagoCityscape/pins/blob/master/chicago_townships.zip). Projection is EPSG:3435, Illinois StatePlane East (feet)
