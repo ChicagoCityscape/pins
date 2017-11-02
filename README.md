@@ -2,7 +2,7 @@
 
 This repository contains *two lists of PINs*, or property index numbers, property class descriptions, and township GIS data. It will eventually contain property taxes data (billed and assessed values for all properties).
 
-1. All Cook County Property Index Numbers billed for 2014
+1. All Cook County Property Index Numbers billed for 2014 and for 2016 (two separate lists)
 2. Other PINs we know about that aren't in list #1
 
 ## What are PINs?
@@ -11,15 +11,15 @@ A PIN describes a property, often in the form of a discrete parcel of a land, bu
 A PIN is 14 digits long and can be divvied into five, meaningful parts. A PIN is most often an integer, but many have leading zeros.
 
 ## What's in List #1?
-List 1 contains the response to a FOIA request [1], asking for a list of "all PINs" (and its metadata: property address, city, class, and description) that were on the tax roll in 2014. 
+List 1 contains the response to a FOIA request [1], asking for a list of "all PINs" (and its metadata: property address, city, class, and description) that were on the tax roll in 2014, and we asked again for those in 2016. 
 
-* 1,864,384 PINs were received in the FOIA request
-* 1,863,813 unique PINs
-* XXX is the number of PINs that had records on the Cook County Property Info Portal
+* 1,864,384 PINs were received in the FOIA request (2014)
+* 1,863,813 unique PINs (2014)
+* 1,747,785 PINs were received in the FOIA request (2016)
 
 ### Get the data
-* [Download a list of PINs](https://github.com/ChicagoCityscape/pins/blob/master/all_cook_pins_1863813.csv.zip) (just the PIN)
-* Download PIN data (PIN and metadata)
+* [Download a list of PINs from 2014](https://github.com/ChicagoCityscape/pins/blob/master/all_cook_pins_1863813.csv.zip) (just the PIN)
+* [Download a list of PINs from 2016](https://github.com/ChicagoCityscape/pins/blob/master/2016-PINs-cook-county-treasurer_pin-only.csv.zip)
 
 ## What's in List #2?
 List 2 contains 155,746 PINs that are in the [Parcel2012 shapefile](https://datacatalog.cookcountyil.gov/GIS-Maps/ccgisdata-Parcel-2012/e62c-6rz8) from the Cook County data portal but which are not present in List 1 ("all PINs"). 
