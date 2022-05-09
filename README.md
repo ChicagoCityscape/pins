@@ -20,6 +20,7 @@ List 1 contains the response to a FOIA request [1], asking for a list of "all PI
 ### Get the data
 * [Download a list of PINs from 2014](https://github.com/ChicagoCityscape/pins/blob/master/all_cook_pins_1863813.csv.zip) (just the PIN)
 * [Download a list of PINs from 2016](https://github.com/ChicagoCityscape/pins/blob/master/2016-PINs-cook-county-treasurer_pin-only.csv.zip)
+* [Download a list of PINs from 2021](https://github.com/ChicagoCityscape/pins/blob/master/pins_2021.csv.zip)
 
 ## What's in List #2?
 List 2 contains 155,746 PINs that are in the [Parcel2012 shapefile](https://datacatalog.cookcountyil.gov/GIS-Maps/ccgisdata-Parcel-2012/e62c-6rz8) from the Cook County data portal but which are not present in List 1 ("all PINs"). 
